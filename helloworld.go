@@ -14,3 +14,4 @@ tipe data berbentuk case sensitif
 integer nilai minimum ada negatif, 
 unsign integer tidak ada negatif dalam nilai minimum
 floating point = ada komanya
+alias = nama lain untuk tipe data
